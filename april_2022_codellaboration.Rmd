@@ -1,0 +1,41 @@
+---
+title: "R-Ladies Code-llaboration"
+author: ""
+date: "4/25/2022"
+output: html_document
+---
+
+## Getting Started
+
+Load packages you'd like to use and set up directories. 
+Read in a CSV data file.
+
+```{r setup}
+
+```
+
+## First Challenge
+
+Explore the dataset and look for outliers or missingness, think about basic checks you might do and how you might approach it (for example, visual exploration vs tables/output). Imagine you were doing this for a very large dataset with a 100 variables.
+
+```{r}
+
+```
+
+## Second Challenge
+
+Summarize the annual salary by gender and country. Think about the best way to present this so that the takeaways/trends are easy to understand.
+
+```{r}
+
+```
+
+## Third Challenege
+
+Think about what you both want to do with these data and try it out! Think about what steps you might take, what would you need to do to the data before running any analyses or creating visualizations, etc. 
+
+```{r}
+
+```
+
+
